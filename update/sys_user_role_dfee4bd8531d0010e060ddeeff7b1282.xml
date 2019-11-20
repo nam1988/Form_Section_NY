@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_form_section_ny.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_form_section_ny.user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-19 23:59:30</sys_created_on>
+        <sys_id>dfee4bd8531d0010e060ddeeff7b1282</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_form_section_ny.user</sys_name>
+        <sys_package display_value="Form Section NY" source="x_form_section_ny">7dee4b98531d0010e060ddeeff7b12c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Form Section NY">7dee4b98531d0010e060ddeeff7b12c8</sys_scope>
+        <sys_update_name>sys_user_role_dfee4bd8531d0010e060ddeeff7b1282</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-19 23:59:30</sys_updated_on>
+    </sys_user_role>
+</record_update>

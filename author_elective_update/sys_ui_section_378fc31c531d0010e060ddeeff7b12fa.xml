@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Section 2" section_id="378fc31c531d0010e060ddeeff7b12fa" sys_domain="global" table="x_form_section_ny_table1" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>col1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-20 00:02:20</sys_created_on>
+            <sys_id>789f071c531d0010e060ddeeff7b1208</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Section 2" display_value="Section 2" name="x_form_section_ny_table1" sys_domain="global" view="Default view">378fc31c531d0010e060ddeeff7b12fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-20 00:02:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Section 2</caption>
+            <header>false</header>
+            <name>x_form_section_ny_table1</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-20 00:02:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>378fc31c531d0010e060ddeeff7b12fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Section 2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Form Section NY" source="x_form_section_ny">7dee4b98531d0010e060ddeeff7b12c8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Form Section NY">7dee4b98531d0010e060ddeeff7b12c8</sys_scope>
+            <sys_update_name>sys_ui_section_378fc31c531d0010e060ddeeff7b12fa</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-20 00:02:16</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Form Section NY">7dee4b98531d0010e060ddeeff7b12c8</application>
+        <file_path/>
+        <instance_id>dc88e25853110010e060ddeeff7b12d7</instance_id>
+        <instance_name>NY-dc88e25853110010e060ddeeff7b12d7</instance_name>
+        <name>sys_ui_section_378fc31c531d0010e060ddeeff7b12fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Section 2" section_id="378fc31c531d0010e060ddeeff7b12fa" sys_domain="global" table="x_form_section_ny_table1" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>col1</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-20 00:02:20</sys_created_on><sys_id>789f071c531d0010e060ddeeff7b1208</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Section 2" display_value="Section 2" name="x_form_section_ny_table1" sys_domain="global" view="Default view">378fc31c531d0010e060ddeeff7b12fa</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-20 00:02:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Section 2</caption><header>false</header><name>x_form_section_ny_table1</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-20 00:02:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>378fc31c531d0010e060ddeeff7b12fa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Section 2</sys_name><sys_overrides/><sys_package display_value="Form Section NY" source="x_form_section_ny">7dee4b98531d0010e060ddeeff7b12c8</sys_package><sys_policy/><sys_scope display_value="Form Section NY">7dee4b98531d0010e060ddeeff7b12c8</sys_scope><sys_update_name>sys_ui_section_378fc31c531d0010e060ddeeff7b12fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-20 00:02:16</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-2080829714</payload_hash>
+        <record_name>Table1</record_name>
+        <reverted_from/>
+        <source>71ee4b98531d0010e060ddeeff7b12cb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-20 00:02:20</sys_created_on>
+        <sys_id>b09f071c531d0010e060ddeeff7b120a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e861df3a60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-20 00:02:20</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>3c9f071c251d00107e635697198b4c09</update_guid>
+        <update_guid_history>3c9f071c251d00107e635697198b4c09:-2080829714</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-20 00:05:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0b8ea515128d42368a93d191dacd7e24</sys_id>
+        <sys_metadata>378fc31c531d0010e060ddeeff7b12fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Section 2</sys_name>
+        <sys_package display_value="Form Section NY" source="x_form_section_ny">7dee4b98531d0010e060ddeeff7b12c8</sys_package>
+        <sys_parent display_value="Table1">753fcfd8531d0010e060ddeeff7b12e2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Form Section NY">7dee4b98531d0010e060ddeeff7b12c8</sys_scope>
+        <sys_scope_delete display_value="">96db899f83b14d0a88da82e386598161</sys_scope_delete>
+        <sys_update_name>sys_ui_section_378fc31c531d0010e060ddeeff7b12fa</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_378fc31c531d0010e060ddeeff7b12fa">b09f071c531d0010e060ddeeff7b120a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-20 00:05:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
